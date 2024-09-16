@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SustenAI", "SustenAI.csproj", "{1591E78B-4442-45CF-9BB7-EFD989C427A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SustenAI.Test", "..\SustenAI.Test\SustenAI.Test.csproj", "{EB7CFD08-EF37-456C-A50D-1AF517BF7E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1591E78B-4442-45CF-9BB7-EFD989C427A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1591E78B-4442-45CF-9BB7-EFD989C427A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1591E78B-4442-45CF-9BB7-EFD989C427A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1591E78B-4442-45CF-9BB7-EFD989C427A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7CFD08-EF37-456C-A50D-1AF517BF7E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7CFD08-EF37-456C-A50D-1AF517BF7E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7CFD08-EF37-456C-A50D-1AF517BF7E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7CFD08-EF37-456C-A50D-1AF517BF7E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {077BC513-697F-4765-BFF1-C412D4959A0A}
+	EndGlobalSection
+EndGlobal
