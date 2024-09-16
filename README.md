@@ -71,7 +71,7 @@ Siga estas etapas para configurar e executar a aplicação localmente:
    dotnet restore
    ```
 
-4. **Execute a Compilação do Projeto
+4. **Execute a Compilação do Projeto.**
 
 5. **Execute, se necessário, o comando:**
    ```console do nuget
