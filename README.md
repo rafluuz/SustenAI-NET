@@ -71,15 +71,19 @@ Siga estas etapas para configurar e executar a aplicação localmente:
    dotnet restore
    ```
 
-4. **Configure a string de conexão no `appsettings.json`:**
-   - Atualize a string de conexão para conectar ao seu banco de dados Oracle.
+4. **Execute a Compilação do Projeto
 
-5. **Execute a aplicação:**
-   ```bash
-   dotnet run
+5. **Execute, se necessário, o comando:**
+   ```console do nuget
+   dotnet restore
    ```
 
-6. **Acesse a documentação da API via Swagger:**
+7. **Execute a aplicação:**
+   ```
+   https
+   ```
+
+8. **Acesse a documentação da API via Swagger:**
    Abra o navegador e vá até: `https://localhost:7222/swagger/index.html`.
 
 ## 📊 Estrutura de Dados
@@ -105,13 +109,13 @@ Siga estas etapas para configurar e executar a aplicação localmente:
 
 ## 🫂 Equipe de Desenvolvimento
 
-| Nome                        | Função                                |
+| Nome                        | Função                                |        RM
 | ---------------------------- | ------------------------------------- |
-| **[Rafaela](https://github.com/rafluuz)** | .NET & Banco de Dados |
-| **[Ming](https://github.com/mingzinho)** | IA & DevOps Cloud Computing
-| **[Clara](https://github.com/clarabcerq)** | Java |
-| **[Guilherme](https://github.com/Guilherme379)** | Complience & Quality Assurance |
-| **[Pedro Batista ](https://github.com/yoboypb)** | Mobile |
+| **[Rafaela](https://github.com/rafluuz)** | .NET & Banco de Dados |  RM551857
+| **[Ming](https://github.com/mingzinho)** | IA & DevOps Cloud Computing | RM99150
+| **[Clara](https://github.com/clarabcerq)** | Java | RM98175
+| **[Guilherme](https://github.com/Guilherme379)** | Complience & Quality Assurance | RM551805
+| **[Pedro Batista ](https://github.com/yoboypb)** | Mobile | RM550334
 
 ---
 
