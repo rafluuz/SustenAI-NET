@@ -109,13 +109,13 @@ Siga estas etapas para configurar e executar a aplicação localmente:
 
 ## 🫂 Equipe de Desenvolvimento
 
-| Nome                        | Função                                |        RM
-| ---------------------------- | ------------------------------------- |
-| **[Rafaela](https://github.com/rafluuz)** | .NET & Banco de Dados |  RM551857
-| **[Ming](https://github.com/mingzinho)** | IA & DevOps Cloud Computing | RM99150
-| **[Clara](https://github.com/clarabcerq)** | Java | RM98175
-| **[Guilherme](https://github.com/Guilherme379)** | Complience & Quality Assurance | RM551805
-| **[Pedro Batista ](https://github.com/yoboypb)** | Mobile | RM550334
+| Nome                        | Função                                 |        RM                                 |
+| ----------------------------| -------------------------------------  | ------------------------------------------|
+| **[Rafaela](https://github.com/rafluuz)** | .NET & Banco de Dados |  RM551857                                    |
+| **[Ming](https://github.com/mingzinho)** | IA & DevOps Cloud Computing | RM99150                                 |
+| **[Clara](https://github.com/clarabcerq)** | Java | RM98175                                                      |
+| **[Guilherme](https://github.com/Guilherme379)** | Complience & Quality Assurance | RM551805                     |
+| **[Pedro Batista ](https://github.com/yoboypb)** | Mobile | RM550334                                             |
 
 ---
 
