@@ -82,7 +82,7 @@ Siga estas etapas para configurar e executar a aplicação localmente:
 
 5. **Execute, se necessário, o comando:**
    ```console do nuget
-   dotnet restore
+   Update-Database
    ```
 
 7. **Execute a aplicação:**
