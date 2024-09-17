@@ -100,6 +100,36 @@ Siga estas etapas para configurar e executar a aplicação localmente:
 - **Arquivo**: Controla os metadados dos arquivos carregados pelos usuários.
 - **Previsao**: Registra os resultados das previsões de demanda para cada produto.
 
+## 📃 Documentação da API
+**A API fornece os seguintes endpoints:**
+
+*Usuários*
+  - GET /api/usuario – Buscar todos os usuários
+  - GET /api/usuario/{id} – Buscar usuário por ID
+  - POST /api/usuario – Cadastrar um novo usuário
+  - PUT /api/usuario/{id} – Atualizar um usuário existente
+  - DELETE /api/usuario/{id} – Apagar um usuário
+
+ *Produtos*
+  - GET /api/produto – Buscar todos os produtos
+  - GET /api/produto/{id} – Buscar produto por ID
+  - POST /api/produto – Cadastrar um novo produto
+  - PUT /api/produto/{id} – Atualizar um produto existente
+  - DELETE /api/produto/{id} – Apagar um produto
+
+ *Arquivos*
+  - GET /api/arquivo – Buscar todos os arquivos
+  - GET /api/arquivo/{id} – Buscar arquivo por ID
+  - POST /api/arquivo – Cadastrar um novo arquivo
+  - PUT /api/arquivo/{id} – Atualizar um arquivo existente
+  - DELETE /api/arquivo/{id} – Apagar um arquivo
+
+ *Previsões*
+  - GET /api/previsao – Buscar todas as previsões
+  - GET /api/previsao/{id} – Buscar previsão por ID
+  - POST /api/previsao – Cadastrar uma nova previsão
+  - PUT /api/previsao/{id} – Atualizar uma previsão existente
+  - DELETE /api/previsao/{id} – Apagar uma previsão
 ## 💻 Requisitos
 
 - [Visual Studio 2022](https://visualstudio.microsoft.com/)
