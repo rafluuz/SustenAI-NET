@@ -85,7 +85,7 @@ Siga estas etapas para configurar e executar a aplicação localmente:
    Update-Database
    ```
 
-7. **Execute a aplicação:**
+7. **Execute a aplicação no:**
    ```
    https
    ```
