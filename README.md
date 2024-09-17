@@ -52,6 +52,13 @@ Contém testes unitários para garantir que os serviços e previsões de demanda
 - **Swagger** para documentação dos endpoints.
 - **Git** para controle de versão.
 
+  ###📍 Design Patterns Utilizados
+
+- **Repository Pattern**: Encapsula a lógica de acesso a dados e permite uma forma mais limpa e organizada de interagir com o banco de dados.
+- **Unit of Work Pattern**: Garantia de que todas as operações de banco de dados são tratadas como uma única unidade de trabalho. (Implementado através da `DbContext` do Entity Framework Core.)
+- **Dependency Injection: Facilita a injeção de dependências e promove a modularidade e testabilidade do código.
+
+
 ## 🚀 Como Executar o Projeto
 
 Siga estas etapas para configurar e executar a aplicação localmente:
